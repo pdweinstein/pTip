@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - pTip
 
 pTip is a tip calculator application for iOS.
 
